@@ -31,8 +31,6 @@
 
 ## 📸 Project Screenshots
 
-> Add screenshots inside `docs/screenshots/` using the file names below before publishing the README on GitHub.
-
 Homepage
 
 ![Homepage](docs/screenshots/homepage.png)
